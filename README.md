@@ -122,3 +122,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 <div align="center">
   <i>⭐️ From <a href="https://github.com/pramodprasannakumar/">pramod</a> with ❤️</i>
 </div>
+
+## 📊 GitHub Stats
+<image-card alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pramodprasannakumar&show_icons=true&theme=radical" ></image-card>
+<image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodprasannakumar&layout=compact&theme=radical" ></image-card>
