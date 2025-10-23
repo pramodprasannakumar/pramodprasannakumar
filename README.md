@@ -126,3 +126,8 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 ## 📊 GitHub Stats
 <image-card alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pramodprasannakumar&show_icons=true&theme=radical" ></image-card>
 <image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodprasannakumar&layout=compact&theme=radical" ></image-card>
+
+## 🏆 GitHub Trophies
+<image-card alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=pramodprasannakumar&theme=radical" ></image-card>
+
+<image-card alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodprasannakumar&theme=radical" ></image-card>
