@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Pramod Prasannakumar</h1>
 <h3 align="center">Senior DevOps & Cloud Engineer | Infrastructure Automation | 4+ Years of Experience</h3>
 
-*/<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamail-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shamailabbas?label=Followers&style=social" alt="GitHub followers" />
-</p>
-/*
 
 ---
 
