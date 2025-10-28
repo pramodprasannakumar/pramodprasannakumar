@@ -62,7 +62,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 - Docker Compose • Packer • Vault
 
 ### 🧠 Programming & Scripting
-- Go (Gin), Node.js (Express), Python, Bash
+- Node.js (Express), Python, Bash
 - TypeScript, JavaScript, YAML, JSON
 
 ### 🗄️ Databases & Caching
