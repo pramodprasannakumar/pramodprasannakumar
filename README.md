@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Pramod Prasannakumar</h1>
-<h3 align="center">Senior DevOps & Cloud Engineer | Infrastructure Automation | 4+ Years of Experience</h3>
+<h3 align="center">DevOps & Cloud Engineer | Infrastructure Automation | 4+ Years of Experience</h3>
 
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Senior DevOps Engineer** with over **4+ years of hands-on experience** designing, automating, and optimizing **cloud-native, highly available, and secure production systems**.
+I'm a **DevOps Engineer** with over **4+ years of hands-on experience** designing, automating, and optimizing **cloud-native, highly available, and secure production systems**.
 I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my background in **software engineering and AI** to deliver scalable infrastructure and data-driven solutions.
 
 - 🧩 **Core Focus:** DevOps, Cloud Architecture, Infrastructure as Code, Automation, and Observability
