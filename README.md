@@ -20,7 +20,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 
 💼 All of my projects are available on [GitHub](https://github.com/pramodprasannakumar)
 📄 View my professional background on [LinkedIn](https://www.linkedin.com/in/pramod-prasannakumar-2b4bbb113/)
-📫 Reach me at **pramodaprasanna93@gmail.com**
+📫 Reach me at **pramodsmg2@gmail.com**
 
 ---
 
