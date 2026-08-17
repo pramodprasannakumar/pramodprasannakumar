@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pramod Prasannakumar</h1>
-<h3 align="center">DevOps & Cloud Engineer | Infrastructure Automation | Years of Experience</h3>
+<h3 align="center">DevOps & Cloud Engineer | Infrastructure Automation </h3>
 
 
 ---
@@ -19,7 +19,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 - 🧠 **Extras:** MERN Stack,Python, Flask, Go/Gin, AI/ML pipelines
 
 💼 All of my projects are available on [GitHub](https://github.com/pramodprasannakumar)
-📄 View my professional background on [LinkedIn](https://www.linkedin.com/in/pramod-prasannakumar-2b4bbb113/)
+📄 View my professional background on [LinkedIn](https://www.linkedin.com/in/pramoda-prasannakumar)
 📫 Reach me at **pramodsmg2@gmail.com**
 
 ---
